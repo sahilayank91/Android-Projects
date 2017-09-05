@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "4138036934",
+    "project_id": "mainzineapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4138036934:android:45e932171cb76fc1",
+        "android_client_info": {
+          "package_name": "com.rdc.mainzineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2Ijj9a4bkxQFkoMqt20cVtGX03ttVUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

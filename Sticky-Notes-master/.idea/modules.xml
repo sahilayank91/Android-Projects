@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application/StickyNotes/StickyNotes.iml" filepath="$PROJECT_DIR$/application/StickyNotes/StickyNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/StickyNotesDaoGenerator/StickyNotesDaoGenerator.iml" filepath="$PROJECT_DIR$/application/StickyNotesDaoGenerator/StickyNotesDaoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/StickyNotesTests/StickyNotesTests.iml" filepath="$PROJECT_DIR$/application/StickyNotesTests/StickyNotesTests.iml" />
+    </modules>
+  </component>
+</project>

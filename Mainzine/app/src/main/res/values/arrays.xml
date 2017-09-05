@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="fyname">
+    <item>Sahil Ayank</item>
+    <item>Ayushi Jain</item>
+    <item>Kriti Gupta</item>
+    <item>Ankit Pachauri</item>
+    <item>Md Saif</item>
+
+    <item>Vrinda Agarwal</item>
+    <item>Parth Agarwal</item>
+    <item>Rashesh Vagadia</item>
+    <item>Piyush Jha</item>
+    <item>Puru Lokendra Singh</item>
+    <item>Divyam Aditya Singh</item>
+</string-array>
+
+    <string-array name="fydesc">
+        <item>Sahil Ayank is a student of Second Year in IIIT Kota. He likes to code for the microcontrollers.
+        He loves Competetive Coding. And enjoys doing new stuff.
+        </item>
+
+        <item>Ayushi Jain is a student of second year in IIIT kota in branch Electronics and Communication engineering.</item>
+        <item>Kriti Gupta is a student of second year in MNIT jaipur in Computer Science branch</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+
+
+
+    <string-array name="fy_picture">
+        <item>@drawable/sahil_ayanka</item>
+        <item>@drawable/ayushijain</item>
+        <item>@drawable/kritiguptafirst</item>
+        <item>@drawable/ankitpachauri</item>
+        <item>@drawable/mdsaif</item>
+        <item>@drawable/vrinda_agarawal</item>
+        <item>@drawable/parth</item>
+        <item>@drawable/rashesh</item>
+        <item>@drawable/piyushjha</item>
+        <item></item>
+
+        <item>@drawable/divyam</item>
+    </string-array>
+
+
+
+    <string-array name="fyint">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+
+    </string-array>
+
+
+
+
+
+</resources>

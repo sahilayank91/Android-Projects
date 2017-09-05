@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Elite\n Family of Zine"
+        android:fontFamily="Algerian"
+        android:textSize="26dp"
+        android:textAlignment="center"
+        android:textColor="@color/text_colour"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Our Mentor"
+        android:textStyle="bold"
+        android:textAlignment="gravity"
+        android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/rajesh"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The Faculty Advisor : Driving force behind Zine"
+        android:textStyle="italic"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE,
+
+MIE (I),SMIACSIT, LMISTE, MIAENG,
+
+Associate Professor Department of Electrical Engineering"/>
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr. Rajesh Kumar is the Founder of ZINE student innovative group.His background is in the fields of Computational Intelligence, Artificial Intelligence, power engineering, energy harvesting and management, control theory, robotics, automation, bioinformatics , smart grid, manufacturing, computer vision and signal processing."/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Research Interests and Activities:"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Computational Intelligence(Nature and Bio Inspired Metaheurisitc Algorithms, Simulated Annealing (SA), Artificial Life, Intelligent Water Drops(IWD), Harmony Search(HS), Firefly Algorithms(FA), Tabu Search, Enzyme Algorithm (EA), Swarm Intelligence, Ant Colony Optimization (ACO), Particle Swarm Optimization (PSO), Bee Colony Optimization (BCO), Evolutionary Algorithms, Adaptive Dynamic Programming, Artificial Immune System, Foraging Algorithms, Multi Agent System, Fuzzy Systems, Type-I and Type-II Fuzzy system, Neuro-Fuzzy System, Neural Networks, Multi-Dimensional Neural Network, Adaptive Structures, ART, Hybrid Systems), Application of CI to Power Electronics, Drives and Control(Intelligent Control and Modeling of Electrical Drives, Field Oriented Control of Drives, Direct Torque Control of Drives, Sensorless Control of Drives, Condition Monitoring of Electrical Machines, Power Quality Improvement, Power Converters), Application of CI to Power and Energy Systems (Intelligent Control, Modeling and Optimization of Power Systems, Optimal Control and Energy Management in Micro-Grids and Distributed Energy Systems. "/>
+
+
+
+</LinearLayout>

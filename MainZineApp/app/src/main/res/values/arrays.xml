@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+    <string-array name="places">
+        <item>Palais Garnie</item>
+        <item>Piazza del Duomo</item>
+        <item>Manhattan</item>
+        <item>Senso-ji</item>
+        <item>Sultan Ahmed Mosque</item>
+        <item>Table Mountain</item>
+    </string-array>
+    <string-array name="second_year">
+        <item>Sahil Ayank</item>
+        <item>Ayushi Jain</item>
+        <item>Parth Agarwal</item>
+        <item>Divyam Aditya Singh</item>
+        <item>Vrinda Agarwal</item>
+        <item>Kriti Gupta</item>
+        <item>Md. Saif</item>
+        <item>Piyush Jha</item>
+        <item>Rashesh Vagadia</item>
+        <item>Puru Lokender Singh</item>
+        <item>Ankit Pachauri</item>
+    </string-array>
+
+
+
+
+    <string-array name="second_year_desc">
+        <item>Second Year, Branch- Computer Science
+        </item>
+        <item>Second Year, Branch- Electronics and Communication Engineering</item>
+        <item>Second Year, Branch- Mechanical</item>
+        <item>Second Year, Branch- Electrical</item>
+        <item>Second Year, Branch- Civil</item>
+        <item>Second Year, Branch- Computer Science</item>
+        <item>Second Year, Branch- Mechanical</item>
+        <item>Second Year, Branch- Electronics and Communication</item>
+        <item>Second Year, Branch- Mechanical</item>
+        <item>Second Year, Branch- Electrical</item>
+        <item>Second Year, Branch- Civil</item>
+
+    </string-array>
+    <array name="second_year_pic">
+        <item>@drawable/sahil</item>
+        <item>@drawable/ayushijain</item>
+        <item>@drawable/parth</item>
+        <item>@drawable/divyam</item>
+        <item>@drawable/vrinda_agarawal</item>
+        <item>@drawable/kritigfirst</item>
+        <item>@drawable/mdsaif</item>
+        <item>@drawable/piyushjha</item>
+        <item>@drawable/rashesh</item>
+        <item>@drawable/puru</item>
+        <item>@drawable/ankitpachauri</item>
+
+
+    </array>
+    <string-array name="second_year_email">
+        <item>sahilayank91@gmail.com</item>
+        <item>jain46771@gmail.com</item>
+        <item>2015ume1343@mnit.ac.in</item>
+        <item>2015uee1214@mnit.ac.in</item>
+        <item>2015uce1442@mnit.ac.in</item>
+        <item>kriti@zine.co.in</item>
+        <item>2015uee1383@mnit.ac.in</item>
+        <item>piyushnit15@gmail.com</item>
+        <item>2015ume1517@mnit.ac.in</item>
+        <item>2015uee1306@mnit.ac.in</item>
+        <item>ankitpachauri26.ap@gmail.com</item>
+    </string-array>
+
+    <string-array name="second_year_interest">
+        <item>Android App Development, AI, Image Processing, Web Designing, Machine Learning, Hadoop </item>
+        <item>Projects based on IOT</item>
+        <item>Microcontrollers</item>
+        <item>IOT, Mechatronics, Big Data</item>
+        <item>Electronics and electrical circuits, web development</item>
+        <item>Website development, Android App development, Image Processing, Ethical Hacking</item>
+        <item>Matlab\n
+              Image processing(don\'t know much but will start working on it soon..)\n
+                Robotics(mechanical part)\n
+                Project -  robo arm</item>
+        <item>Micro-controllers</item>
+        <item>Mechanical Designing, Mechatronics, Photo and Video Editing, Basic Coding</item>
+        <item>Machine Learning, Artificial Intelligence, Ethical Hacking, Biomedical Engineering, Automation </item>
+        <item>Mechanical designing, circuit simulation and designing, sensors interfacing, algorithms and coding.</item>
+    </string-array>
+    <string-array name="second_year_achievement">
+        <item>Qualified for the finals of Warehouse Event in Kshitij\'15</item>
+        <item>Qualified for the final round of Summit Event in Kshitij\'15</item>
+        <item>Winners of the event \'Salvator\' in Blitzschlag 2015-16</item>
+        <item>Finalist in Kshitij 2016 at IIT Kharagpur \nParticipated in Robotsav at Blitzschlag\'16</item>
+        <item>Qualified for the finals of Warehouse Event in Kshitij\'15</item>
+        <item>Qualified for the finals of Warehouse Event in Kshitij\'15</item>
+        <item>Finalist in Kshitij 2016 at IIT Kharagpur \nParticipated in Robotsav at Blitzschlag\'16
+
+</item>
+        <item>- Finalist of the event \'SUMMIT\' in Kshitij 2015.\n
+- Secured 4th position in the event \'Frodo Hockey\'  in Blitzschlag 2015-16.\n
+- Winners of the event \'Salvator\' in Blitzschlag 2015-16.</item>
+        <item>Finalist in Kshitij 2016 at IIT Kharagpur \nParticipated in Robotsav at Blitzschlag\'16</item>
+        <item>Finalist in Kshitij 2016 at IIT Kharagpur \nParticipated in Robotsav at Blitzschlag\'16</item>
+        <item>Qualified for the finals of Warehouse Event in Kshitij\'15</item>
+    </string-array>
+    <string-array name="third_year">
+        <item>Anshul Rawat</item>
+        <item>Deepank Negi</item>
+        <item>Kriti Gupta</item>
+        <item>Manas Jain</item>
+        <item>Manish Patki</item>
+        <item>Mayank Gupta</item>
+        <item>Mehul Madanmohan</item>
+        <item>Parijeet Chatterjee</item>
+        <item>Rahul Ravichandran</item>
+        <item>Sakshi Agarwal</item>
+        <item>Saloni Jain</item>
+        <item>Varun Agarwal</item>
+    </string-array>
+    <string-array name="third_year_desc">
+        <item>Branch- Computer Science</item>
+        <item>Branch- Civil</item>
+        <item>Branch- Electronics and Communication</item>
+        <item>Branch- Electrical</item>
+        <item>Branch- Computer Science</item>
+        <item>Branch- Electronics and Communication</item>
+        <item>Branch- Chemical</item>
+        <item>Branch- Electronics and Communication</item>
+        <item>Branch- Electrical</item>
+        <item>Branch- Electronics and Communication</item>
+        <item>Branch- Computer Science</item>
+        <item>Branch- Electrical</item>
+    </string-array>
+    <string-array name="third_year_email">
+        <item>anshulr97@zine.co.in</item>
+        <item>deepank.negi741@zine.co.in </item>
+        <item>kriti.gupta@zine.co.in </item>
+        <item>manasj04@gmail.com</item>
+        <item>manishpatki007@zine.co.in </item>
+        <item>wakaboyssss@gmail.com</item>
+        <item>mehul607@gmail.com</item>
+        <item>parijeetchatterjee@gmail.com</item>
+        <item>rahulr4121996@gmail.com</item>
+        <item>sakshiaggarwal.code@gmail.com</item>
+        <item>jain_saloni18@zine.co.in </item>
+        <item></item>
+    </string-array>
+    <string-array name="third_year_achievement">
+        <item>Finalist in event Cascade at Kshitij- IIT KGP\nRobocon 2016</item>
+        <item>Finalist in event Cascade at Kshitij- IIT KGP\nRobocon 2016</item>
+        <item>Participated in Eyantra 2016\n</item>
+
+        <item>Minefield - Won 1st Prize Semi-autonomous Robotics event Kshitij\'15\n
+Participated in Eyantra 2016\n
+Robocon 2016 - Reached among top 50 teams all over India  </item>
+        <item>Finalist in event Cascade at Kshitij- IIT KGP\nRobocon 2016</item>
+        <item>Participated in Robocon\n</item>
+        <item>2 research papers in the pipeline + several projects within Zine and chemical department</item>
+        <item>Winner at kshitij 2015</item>
+        <item>Participated in robocon, kshitij.\n
+Won 2 nd at circuit debugging held competition at mnit</item>
+        <item>Won first prize in Skyfall event in Kshitij 2015,IIT KGP \n Participated in e-yantra,IIT-Bombay </item>
+        <item>Participated in Eyantra 2016\nFinalist in event Cascade at Kshitij- IIT KGP</item>
+        <item>Robocon 2016\n</item>
+    </string-array>
+    <string-array name="third_year_interest">
+        <item>Machine Learning, Image Processing, Natural Language Processing, Web Development</item>
+        <item></item>
+        <item></item>
+        <item>Interest - Circuit Simulation and designing , Micro-controllers and Automation, embedded systems, algorithms and coding ,Sensor interfacing,android app development,autonomous and semi-autonomous robotics
+
+Projects - Minefield ( semi-autonomous robotics event Kshitij\'15)
+                - Robocon 2016
+                - Eyantra 2016
+                - Roboarm
+                - Wireless Home Automation Using Mobile Phone</item>
+        <item></item>
+        <item>Automation</item>
+        <item>Machine learning, Artificial Intelligence, Simulation, Process Control, Bioengineering</item>
+        <item>Electronics</item>
+        <item>Power electronics,circuit integration , designing and debugging</item>
+        <item>Android App Development,Image Processing,Sensor Interfacing;Projects-3d painter,app development based on bluetooth interfacing</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <array name="third_year_pic">
+        <item>@drawable/anshul</item>
+        <item>@drawable/deepank</item>
+        <item>@drawable/kriti</item>
+        <item>@drawable/manasjain</item>
+        <item>@drawable/manish</item>
+        <item>@drawable/mayank</item>
+        <item>@drawable/mehul</item>
+        <item>@drawable/parijeet</item>
+        <item>@drawable/rahulr</item>
+        <item>@drawable/sakshi</item>
+        <item>@drawable/saloni</item>
+        <item>@drawable/varun_agarawala</item>
+    </array>
+    <string-array name="fourth_year">
+        <item>Akshay Kumar</item>
+        <item>Ayush Jhalani</item>
+        <item>Devang Darode</item>
+        <item>Jatin Verma</item>
+        <item>Karsh Tharyani</item>
+        <item>Sarthak Jain</item>
+        <item>Vishaka Tyagi</item>
+        <item>Shubham Tripathi</item>
+
+    </string-array>
+    <string-array name="fourth_year_email">
+        <item>2013uee1340@mnit.ac.in\n</item>
+        <item>jhalaniayush98@gmail.com\n</item>
+        <item>devangdarode@gmail.com\n</item>
+        <item>jatin.verma.205@gmail.com\n</item>
+        <item>karsht8@gmail.com\n</item>
+        <item>sarthakjain@zine.co.in </item>
+        <item></item>
+        <item>stripathi1770@gmail.com\n</item>
+    </string-array>
+    <string-array name="fourth_year_interest">
+        <item>Mechatronics, Mechanical Designing, Embedded Systems, Prothetics and biomechanics </item>
+        <item></item>
+
+        <item></item>
+
+        <item>Smart Grid, Multi Agent Systems, Electrical Load Forecasting, Machine Learning, Optimization Techniques.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Machine Learning, NLP, Deep learning, Sentiment Analysis, Gait Analysis</item>
+
+
+
+    </string-array>
+    <string-array name="fourth_year_desc">
+        <item>Branch- Electrical</item>
+        <item>Branch- Mechanical</item>
+        <item>Branch- Mechanical</item>
+        <item>Branch- Electrical</item>
+        <item>Branch- Mechanical</item>
+        <item>Branch- Electronics and Communication</item>
+        <item>Branch- Computer Science</item>
+        <item>Branch- Electrical</item>
+    </string-array>
+    <array name="fourth_year_pic">
+        <item>@drawable/akshaythird</item>
+        <item>@drawable/ayushjhalani</item>
+        <item>@drawable/devang_darode</item>
+        <item>@drawable/jatinverma</item>
+        <item>@drawable/karshtharyani</item>
+        <item>@drawable/sarthakjain</item>
+        <item>@drawable/vishaka_tyagi</item>
+        <item>@drawable/shubham</item>
+    </array>
+    <string-array name="fourth_year_achievement">
+        <item>\"Patent titled,- \"Robotic Technology for Transmission Line Inspection in Live Condition\"\n
+            Patent titled, \"Rail Alert Systems\"\n
+
+Patent titled, \"Comprehensive System for Osteoarthritis detection, analysis and rehabilitation based on
+efficient SEMG signals \" \n
+
+1st Prize at Student Innovation Pavilion Section, GRIDTECH’15 - by PGCIL Govt. Of India, for the exhibit - \"Robotic Technology for Transmission Line Inspection in Live Condition\"\n
+
+Runners-Up at Tech Expo, Blitzschalg’14, MNIT Jaipur for the project \"RoboArm\" \n
+
+Finalists at Texas instruments India Analog Maker College Level Competition 2015\n
+
+Winner Of Cosmology and Physics Quiz Contest 2014 at MNIT Jaipur.\n
+
+Finalists at the manual event Canyon Rush in Kshitij 2014 held at IIT Kharagpur\n
+        </item>
+        <item>Intern at IIT Guwahati.\nPlaced in Bajaj.\n</item>
+        <item>\"Patent for the design of -\"Electrically Powered Multi-utility Bicycle (e-Bike)\"\n
+National Champion of Mechanical 3D Student Design Challenge
+ As a representative of India, participated in the \"International Autodesk Panorama\" held in Shanghai, China\n
+ATV Design and Fabrication for the BAJA SAE 2015\n
+Delivered a Guest Lecture at the Autodesk University-2015 Mumbai, titled\"Changing the design process: Fusion 360\"\n
+Second Runner up of the robotics event Inspiralon, in KSHITIJ at IIT Kharagpur 2014\n
+Second Runner up in Blitzschlag 2014 at MNIT Jaipur for Braitenberg Type 2b Robot\n
+Conducts workshop for Juniors on AUTOCAD, Inventor, Motion View, etc.\</item>
+        <item>Paper titled <b>One Day Forth Forecasting of Hourly Electrical Load using Genetically Tuned Support Vector Regression for Smart Grid Framework</b> accepted in 2nd International Conference of Recent Advances in Engineering and Computational Sciences (RAECS) 2015, UIET, Panjab University.\n
+
+Paper titled <b>New Short Term Load Forecasting Models based on
+Growth Rate Scaling and Simple Averaging</b> accepted in 6th IEEE International Conference on Power Systems (ICPS), 2016, IIT Delhi.\n
+
+Paper titled <b>Agent Based Intelligent Fault Detection, Isolation and Restoration in Smart Power System</b> accepted in Students Conference on Electrical, Electronics and Computer Sciences (SCEECS) 2016, MANIT, Bhopal.\n
+
+Secured overall 2nd Rank in FIRE2015: Shared Task on Mixed Script Information Retrievel organized by Microsoft India. Working Notes are available here [irlab.daiict.ac.in/FIRE2015/WorkingNotes/T2-35-38-Shah.pdf]\n
+
+Paper titled <b>Short Term Load Forecasting using Artificial Neural Networks: A State of Art</b> got accepted in the 3rd International Conference on \"Advance Trends in Engineering, Technology and Research
+            held in Bal Krishna Institute of Technology, Kota. Received Best Paper Award.\n
+
+Runner Up in the event <b>Troubleshooting Renewable Energy Industry Problems</b> under REtopia, 2015 held at TERI University, Delhi.\n
+
+Runner Up in the event <b>TechExpo</b> under Blitzschlag, 2014 held at MNIT, Jaipur for building the working model of the concept of \'Bus Lane with Intermittent Priority\'.\n
+
+My team stood as Second Runner Up in the manual robotics event \'INSPIRALON\' under KSHITIJ, 2014 held at IIT Kharagpur. Received a letter of commendation for the robot design.</item>
+        <item>Technical Paper Presentation Winner for Paper Titled: \"Development and Wear Analysis of Epoxy Fiber Reinforced Polymer\" at IIT Roorkee Cognizance\'15 ;\nTATA Motors MindRovers Champion 2015; \nThird Position in Kshitij,2014 IIT Kharagpur Event- Inspiralon. </item>
+        <item>1. 2nd rank in shared task organized by Microsoft Research, FIRE 2015. Working notes titled \"Hierarchial classification for Multilingual Language Identification and Named Entity Recognition\" available here [irlab.daiict.ac.in/FIRE2015/WorkingNotes/T2-35-38-Shah.pdf]. \n2. Patent titled \"Comprehensive System for Osteoarthritis detection, analysis and rehabilitation based on efficeint SEMG signals\".\n3. Runners- Up at Tech Expo, Blitzschlag\'14 MNIT Jaipur in open category for project \"ROBOARM\".\n4. Finalists at Texas Instrumetns India Analog Maker College Level Competition 2015.\n5. Got a Research Internship at University of New Brunswick, Fredericton, Canada by Mitacs on the project \"Myoelectric Control of Prosthetic Limbs\". \n6. Participated in Asia level robotics competition Robocon 2016. We were the only team to make use of bulbs and solar panels to make wireless energy transfer and perform the given task.\n7. Stood 3rd in Retro Electronics, robotics competition held in Blitzschlag\'14.</item>
+        <item>Worked in projects like Hand Gesture Recognition</item>
+        <item>1. 2nd rank in shared task promoted by Microsoft Research, FIRE 2015. Paper titled "Hierarchical classification for Multilingual Language Identification and Named Entity Recognition" published in the conference. \n2. Paper titled "A Framework for Human Recognition using a Multimodel Gait Analysis Approach" accepted in IEEE International Conference on Computing Communication and Automation. \n3. Paper titled "Bigram Extraction and SentimentClassification on UnstructuredMovie data" published in International Journal of Electrical and Electronics Research. Vol. 3, Issue 3, pp: (1 -5).\n4. Paper titled "Supervised cum Deep learning based approach towards POS tagging of code-mixed social data" in process for ICON, 2016 at IIT-Patna.\n5. Runners-up in Tech Expo, 2013-14 for Paper Presentation on "GPS enabled stick for visually impaired" 6. Selected as an intern at IISER, Kolkata for designing predictive models for various time series data. Also worked as an intern at dataisnotjustdata.com</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Analyzing the signals from patients brain, mapping and using the data for effective treatment,
+        Pattern Establishment for benign and malignant neurological disease patient in different frequency ranges.
+        Research was in collaboration with State Health care Hospital (SMS), Jaipur
+    \n\n\n
+    <b><ul>Recent Development</ul></b>\n
+        The project has set many milestones Research grant of Rs. 75,000 for further development of this project to use brain signals
+        to control passive objects by Director Sir of College.
+        Results have been submitted in IEEE(Institute of Electrical and Electronics Engineers) Conference.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+
+    <string-array name="workshop_title">
+        <item>Basic Mechanics</item>
+        <item>Android App</item>
+        <item>Aeromodelling</item>
+        <item>Web Designing</item>
+        <item>MATLAB</item>
+        <item>Algo and Pseudo Code</item>
+        <item>ICs and MCUs</item>
+        <item>Sensors</item>
+        <item>Basic Electronics</item>
+        <item>Ethical Hacking</item>
+    </string-array>
+    <array name="workshop_pic">
+        <item>@drawable/mechanical</item>
+        <item>@drawable/android</item>
+        <item>@drawable/aero</item>
+        <item>@drawable/web</item>
+        <item>@drawable/matlab</item>
+        <item>@drawable/algo</item>
+        <item>@drawable/mcu</item>
+        <item>@drawable/sensor</item>
+        <item>@drawable/ec</item>
+        <item>@drawable/hacker</item>
+    </array>
+    <string-array name="workshop_desc">
+        <item>This lecture aims at providing enough knowledge to build a Mechanically feasible design of a bot</item>
+        <item>You will be taught the basics of making an Android App using the official Android Studio IDE.</item>
+
+        <item>This lecture aims at teaching the basics of Aeromodelling and Aerodynamics.
+</item>
+        <item>This Lecture aims at teaching how to make a website and make it interactive and also to connect with the database and the servers</item>
+
+        <item>Matlab is used as a calculator that can simplify our work a lot. It has multidisciplinary applications as in Mathematics, Software, Electronic and Electrical Engineering and many more. It is an authentic software
+
+</item>
+        <item>This lecture aims at teaching the basics of computer programming and fundamentals of programming of Arduino and Raspberry Pi
+</item>
+        <item>This lecture will introduce you to ICs which are the basic elements of almost every technical device, following programmable ones which you can code to work out in any way you want.</item>
+        <item>Sensors To Robots are like Senses To Human.This lecture is helpful for understanding the working of basic sensors and their applications.</item>
+        <item>This session is aimed to teach students the basics of electronics</item>
+        <item>You will get to know various neat tricks plausible on Windows,and\nHow to keep your computer protected and how to access others social networks or Wifi.</item>
+
+    </string-array>
+    <string-array name="workshop_future">
+
+        <item>After attending this, you will be able to use various type of gears, will know their mechanism of working, and from then you will see the world in a new perspective of mechanics.</item>
+
+        <item>Android is fast emerging as the most used OS on mobile phones. Acquiring the skills of creating basic apps for the same in the lecture, you can nurture them further and who knows we may all be using your app soon!</item>
+
+        <item>After attending this lecture, you would be able to understand how these flying machines soar high up in the air and understand how to make a model aeroplane on your own</item>
+
+        <item>Web development has became a necessity nowadays. After this lecture you will be able to make a website with awesome designs using various languages. Also you will get to know about the databases and the Backend.</item>
+
+        <item>Since it useful in almost every field of education and research, Learning Matlab can give us a boost in our technical and research career. Image and video processing is a vital application. It is easy to code many algorithm in Matlab which are difficult to implement in other environments.</item>
+
+        <item>After attending this lecture, you would be able to write a program code on your own, control the brains of your robots, and use a mini-computer which can fit into your pockets!</item>
+
+
+
+
+        <item>One can make amazing circuits like blinking of Led using 555 Timer IC on their own. You will also be able to work upon the brain of Robots !!!</item>
+
+        <item>You can design a cicuit or a robot which can Interact and gather information from the Environment, hence make autonomous robots !!</item>
+        <item>Electronics are widely used nowadays from a torch to the Smartphones. You will be able to identify and use the basic electronic components. The Electronics is going to be very vital in your life in the future.</item>
+        <item>You can go on to become a white or grey hat hacker and serve as an integral part of any company which stores/manipulates data online. Or you could use the acquired skills just to make sure you don\'t fall prey to the vicious dark corners of the internet.</item>
+
+
+    </string-array>
+    <string-array name="hostel">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="workshop_members">
+        <item>Ankit Pachauri\nRashesh Vagadia</item>
+        <item>Sahil Ayank\nKriti Gupta
+        </item>
+
+        <item>Piyush Jha \nRashesh Vagadia </item>
+        <item>Sahil Ayank\nVrinda Agarwal </item>
+
+        <item>Divyam Aditya Singh\nMohammad Saif  </item>
+        <item>  Vrinda Agarwal  \nPiyush Jha </item>
+        <item>Mohammad Saif \nDivyam Aditya Singh \nPuru Lokendra Singh\nAyushi Jain </item>
+        <item>Ayushi Jain\nParth Agarwal </item>
+        <item>Ankit Pachauri\nRashesh Vagadia</item>
+        <item>Sahil Ayank\nKriti Gupta\nPuru Lokendra Singh</item>
+
+
+    </string-array>
+    <string-array name="workshop_contact">
+        <item>2015ume1343@mnit.ac.in\n</item>
+        <item>sahilayank91@gmail.com\n
+            2015ucp1129@mnit.ac.in\n</item>
+
+        <item>2015uec1587@mnit.ac.in\n2015ume1517@mnit.ac.in\n</item>
+
+        <item>sahilayank91@gmail.com\n</item>
+
+        <item>2015uee1214@mnit.ac.in\n</item>
+        <item>2015uec1587@mnit.ac.in\n</item>
+
+        <item>2015uee1214@mnit.ac.in\n2015uee1214@mnit.ac.in\n</item>
+
+        <item>2015ume1343@mnit.ac.in\n</item>
+
+        <item>2015ume1517@mnit.ac.in\n</item>
+
+        <item>sahilayank91@gmail.com\n2015ucp1129@mnit.ac.in\n</item>
+
+
+
+    </string-array>
+    <string-array name="workshop_topics">
+        <item>Mechanical tools,\nActuators,\nSteering Mechanisms,\nTypes of wheels,\nPower Transmission,\nDesigning Softwares </item>
+        <item>History of Operating System of Phones;\nWhat is Android?;\nDevelopment of Android;\nAndroid Architecture;\nAndroid Layout;\nDeveloping your own Android App.</item>
+
+        <item>Introduction,\nBasic Aerodynamics Terms, \nParts of Aeroplanes,\nDIY,\nTypes of Helicopter and its Mechanism,\nQuadcopters and its Stabilization\n</item>
+        <item></item>
+
+        <item>Introduction to Matlab software\nUses,\nApplication in various fields,\nImage processing,\nSimulation (simulink).</item>
+        <item>Introduction to programming languages,\nBasics of C programming-variables,\nConstants,\nKeywords,\nDatatypes,\nOperators,\nDesicion making statements,\nLoops,\nFunctions,\nArrays,\nIntroduction to Arduino and its programming,\nMaking of line follower robot,\nIntroduction to Raspbery Pi.</item>
+        <item>Intro - Moore\'s Law,\nNeed for IC,\nAdvantages/Disadvantages,\nTypes of ICs;\nIC Package,\nNaming and Numbering of ICs;
+            \nLogic Gates, \nData Sheet,\nCommon ICs; \n\nMCU -\n\nFeatures,
+            \nArduino,\nRaspberry Pi\n</item>
+        <item>Introduction to Sensors,\nSpecification of different Sensors,\nTypes of Sensors,\nApplication</item>
+        <item>Intro to electronic components,\nWires and connectors,\nCircuit boards,\nTransistors,\nDiodes,\nH-bridge,\nBatteries.</item>
+
+        <item>What is hacking?;\nVirus,\n
+            trojan and worm;\nPassword Protected folder; \nGodMode; \nHacking User,\nFacebook and WhatsApp Accounts;\nHacking WiFi Password; Live editing in Web Browser; \nVideo as Desktop Background.</item>
+
+
+    </string-array>
+    <array name="practical_pic">
+        <item>@drawable/timer</item>
+        <item>@drawable/opamp</item>
+        <item>@drawable/differential</item>
+        <item>@drawable/arduino</item>
+    </array>
+
+    <string-array name="workshop_practicals">
+        <item>555 Timer IC</item>
+        <item>Op-amp</item>
+        <item>Differential Drive</item>
+        <item>Arduino</item>
+    </string-array>
+    <string-array name="project_list">
+        <item>BCI(Brain Computing Interface)</item>
+        <item>Intelligent Home Energy Management System</item>
+        <item>Autonomous Quadcopter</item>
+        <item>Automotive Wheelchair</item>
+        <item>Prosthetics Arm</item>
+        <item>Gait Analysis</item>
+        <item>Multi Actuator Switch Mode Hydraulic System</item>
+        <item>Human Computer Interface(HCI)</item>
+        <item>Robotic Technology for High Voltage Line Inspection and Repair</item>
+        <item>Sun Tracker</item>
+        <item>Smart Grid</item>
+        <item>Exoskeleton</item>
+        <item>A.G.A.S.T.U.T.I</item>
+        <item>Hand Gesture Recognition</item>
+
+    </string-array>
+    <string-array name="project_members">
+        <item>
+            Saurabh Aggarwal\n
+            Bhanu Pratap\n
+            Singh Rawat</item>
+        <item></item>
+        <item>
+Akash Shah\n
+                Anirudha Kumar\n
+                Rajat Arya</item>
+        <item>
+                Akash Shah\n
+
+                Anirudha Kumar\n
+                Rajat Arya </item>
+        <item></item>
+        <item>
+            Anshul Mittal\n
+            Kanika Gupta</item>
+        <item>
+            Paresh Anand\n
+            Piyush Chauhan\n
+            Sharad Garg</item>
+        <item>Anshul Mittal\n
+              Maitreyee Mehta\n
+              Mihika Gupta\n
+              Sharad Garg</item>
+        <item>
+                Akash Shah\n
+                Akshay Kumar\n
+                Anirudha Kumar
+                Anshul Mittal\n
+                Rajat Arya
+                Sharad Garg</item>
+        <item>  Sharad Garg\n
+                Anshul Mittal</item>
+        <item>  Jatin Verma\n
+                Akshay Kumar</item>
+        <item>
+                Devang Darode\n
+                Sarthak Jain\n
+                Ayush Jhalani\n
+                Akshay Kumar</item>
+        <item>
+Devang Darode\n
+            Karsh Tharyani\n
+                Ayush Jhalani </item>
+        <item>Karsh Tharyani\n
+                Vishakha Tyagi\n
+                Jatin Verma</item>
+    </string-array>
+    <array name="project_pic">
+        <item>@drawable/bci</item>
+        <item>@drawable/homeenergy</item>
+        <item>@drawable/quad</item>
+        <item>@drawable/wheel</item>
+        <item>@drawable/arm</item>
+        <item>@drawable/gait</item>
+        <item>@drawable/hydraulics</item>
+        <item>@drawable/hci</item>
+        <item>@drawable/voltage</item>
+        <item>@drawable/sun</item>
+        <item>@drawable/smart</item>
+        <item>@drawable/exo</item>
+        <item>@drawable/agas</item>
+        <item>@drawable/hand</item>
+    </array>
+    <string-array name="project_desc">
+        <item><string name="Brain_Computing_Interface">Analyzing the signals from patients brain, mapping and using the data for effective treatment,
+        Pattern Establishment for benign and malignant neurological disease patient in different frequency ranges.
+        Research was in collaboration with State Health care Hospital (SMS), Jaipur
+    \n\n\n
+    <b>Recent Development</b>\n\nThe project has set many milestones Research grant of Rs. 75,000 for further development of this project to use brain signals
+        to control passive objects by Director Sir of College.
+        Results have been submitted in IEEE(Institute of Electrical and Electronics Engineers) Conference.</string></item>
+
+
+        <item>  <string name="home_energy">
+
+        The system uses the concept of demand side management,
+        variable tariff blocks and its optimization on cloud such that the power consumption bill is minimized,
+        peak load time is clipped and the consumer satisfaction is maximized. It records and analyzes the electrical
+        parameters and provides an option for optimized scheduling for electrical appliances. The system provides
+        real time access to the load parameters and there is a centralized data monitoring system which generates a
+        report and provides alert to the user to reduce the load consumption on exceeding the proposed usage limit
+        as determined by the predicted load. A smart control feature is integrated which enables control of all the
+        appliances using a handheld device.The system also logs the power consumption so that the discrepancy in billing can be cut down.
+
+<b>Progress:</b>\n\n
+The following tasks have been done and integrated:
+1) Retrieval of data from homes.\n
+2) Optimization on Cloud\n
+3) Scheduling\n
+4) Remote Access to devices at homes\n
+5) Penalty factor\n\n
+<b>Things to be done:</b>\n
+1) Integration of Game Theory\n</string></item>
+
+
+        <item><string name="quadcopter">Quad copters are really interesting topic for engineering students as it can perform versatile day to day functions.
+        Also the military use of these type of unmanned aerial vehicles (UAVs) has grown because of their ability to operate in dangerous locations
+        while keeping their human operators at a safe distance. A quadcopter, also called quadrotor helicopter is multi-rotor
+        copter with four arms, each of which have a motor and a propeller at their ends. Quadcopters are similar to helicopters in some ways,
+        though their lift and thrust comes from four propellers, rather than just one.
+
+
+        \n\n<b>1.</b> Our idea is to design the quadcopter that when left
+        in unknown terrains can give us live video stream on our laptops and also store it according to the need.\n
+        <b>2.</b> Automate it so that it can act by judging its surroundings, perform various actions/maneuverers by determining its position and environment.\n
+        <b>3.</b> These quad copters can be sent in evacuated buildings and in bio-chemical factories to act as first respondents, and call for cajole by manoeuvring either
+        autonomously or controlling it through Brain.\n
+        <b>4.</b> It can also be used to autonomously model unknown environments using distance measuring
+        sensors and decide its path accordingly.\n</string></item>
+
+
+        <item> <string name="wheelchair">It is an emerging field in Engineering due to the depth of its untapped potential.
+        Brain Signals are detected by sensitive electrodes and filtered to obtain useful information.
+        BCI is used for prognosis of terminal diseases, an aid for people who have been disabled and
+        can be used as an ancillary part for paralyzed people. We have achieved the objective of categorizing patients
+        (neurologic disease) using brain signals with a medical team at SMS Hospital, Jaipur. Results have been
+        submitted in IEEE xplore. We have also developed an algorithm for ANN to get enhanced classification of
+        terminal medical disease. Results have been submitted in Springer Journal. Most of software part has
+        been simulated by us. Now to extend our project towards hardware we are going to construct a fully
+        autonomous wheel chair for completely paralyzed people using BCI with the following features:-\n
+        \n
+<b>1.</b> User controlled movement of wheelchair using brain signals.\n
+        <b>2.</b> Detection and classification of following general and medical phenomena on the basis of Brain Signals predominantly:-\n
+<b>a.General Phenomena.</b>\n
+<i>i. Sleep patterns\n
+ii. Stress\n
+iii. Emotion Classification\n</i>
+<b>b. Medical Phenomena</b>
+<i>i. Detecting simple illness (such as cough/cold)\n
+ii. Detecting onset of health complications(such as seizures)\n
+iii. Blood Pressure(using ECG)</i>\n
+<b>3.</b> A complete health report based on the above (and more) factors will be added to a central server at frequent time intervals.\n
+<b>4.</b> Controlling home appliances such as television, lights and doors with BCI.n\n
+<b>5.</b> Prompts for activities such as sleep, TV show, medicine dosage, etc according to time and user requirements.\n
+<b>6.</b> Inclusion of a warning mechanism in case of emergency situations.\n
+<b>7.</b> Customized wheelchair to enhance movement and user comfort.\n</string></item>
+
+
+
+        <item> <string name="prosthetic_arm">
+        Making an artificial arm for the amputed and maimed persons controlled by muscle signals to grab and lift objects.\n
+
+<b>Recent Development:</b>\n
+Extremely useful project for physically disabled.....\n
+
+<b>1.</b>Developed a working model successfully.\n
+<b>2.</b>Currently working on the signal extraction from muscles\n</string></item>
+
+        <item><string name="gait">This research project aims to develop a comprehensive biomechanical integrated software tool for measurement and analysis of postural defects in walking gait.
+        It involves applying Image Processing and Machine Learning techniques. The project has been funded by DST
+        (Department of Science and Technology), which comes within Ministry of Science and Technology, India.
+
+<b>Awards and Recognition</b>
+Two papers published, one of which received Best Paper Award and Recognition.
+ </string></item>
+
+        <item><string name="multi_actuator">Current hydraulic systems involving multiple actuators and a single hydraulic power supply generally have poor efficiency.
+        Using throttling valves to control multiple actuators requires meeting the
+        highest pressure requirement and the total flow of all of actuators.
+        When there is a large difference in the pressure requirement of the actuators,
+        fluid throttling results in significant energy losses.
+        The purpose of this project is to implement switch-mode control in a multi-actuator
+        circuit and demonstrate the improvement in efficiency over a traditional hydraulic
+        with throttling valve control. This will reduce energy losses and result in improved
+        efficiency for usage of multiple actuators with a single hydraulic power source.
+        This idea utilises the input from both the tank and the pump. Using varying amounts of
+        fluid coming from both sources, we can create various pressure and flow values for different
+        actuators and in the process increase the efficiency of the system by operating the actuators
+        at their rated pressures and flows. The usages of this project vary from heavy duty hydraulic
+        to hydraulic lifts. This new technology, once implemented on a larger scale in realistic applications,
+        will reduce losses in hydraulic systems that depend on multiple actuators to function.</string></item>
+
+
+        <item><string name="human_computer_interface">These Devices can range from simple screen modules to more advanced systems like\n
+    finger and head tracking systems which can find use in a variety of fields like game development, gesture controlled \n
+    smart television,etc.Our field of research revolved around creating an interactive platform between a Human and a Computer.\n
+    Looking at the present scenario in India, we believe that cheap alternatives to the usually expensive equipment like interactive whiteboards\n
+    could come in handy to a large number of Schools and Colleges who cannot afford to invest much.
+        \n \t The scope of our project and the applications in the real world are huge.To list a few,\n
+    the following are few of the things which are aiming to achieve:
+
+    \n
+    <b>1.</b>Turning the projection of a laptop into an interactive environment, with multi touch features.
+    \n
+    <b>2.</b> Turning the LCD screen of a laptop into a touchscreen withe the help of a custom stylus,\n again supporting
+    multi touch features(up to 4 distinct points simultaneously).
+    \n
+    <b>3.</b> Finger Tracking for achieving Gesture recognition for incorporating it with carious applications.It would be a giant leap towards augmented
+    \n reality and controlling computers simply by the wave of our hands.
+    \n<b>4.</b>Head tracking which can find use in Game development or creating other Simulation Environments.
+    \n
+    \n\n
+    Finger Tracking and Gesture Recognition alone can find use in various other fields.As \m
+    far as the future scope of our projects is concerned, we would be extending our project to achieve the following:
+
+    \n\n
+    <b>1.</b>Security Systems which make use of gestures.
+    \n<b>2.</b>Controlling Robots via hand and facial gestures.\n
+    <b>3.</b>Transcribing Sign Language into Text.\n
+    <b>4.</b>Smart TVs.</string></item>
+
+
+        <item><string name="voltage_inspection">The project is aimed at developing a robotic technology for carrying out the
+    inspection and repair work of any faults that may occur in the
+    transmission/distribution lines. The robot will achieve this task whilst the line being under
+    live condition. Present methods of inspection include Helicopter surveillance and Human inspection.
+    Helicopter surveillance is done by a lineman using helicopter and it is highly risky.
+    The second method includes human inspection. In this lineman climbs on the transmission
+    line and checks out all the faults and repairs them and this method is also highly risky and time consuming.
+\n\n
+    <b>The robotic system consists of a robot equipped with:</b>
+<b>1.</b> A high definition video camera providing live feeds of transmission line\n
+    <b>2. </b>Infrared (Thermal) camera providing the locations of hotspots.\n
+<b>3.</b> Wire clamper and bolt lightener.\n
+<b>4.</b> Wireless assembly providing control upto 2km.\n
+The robotic system is manually controlled through a wireless remote.
+    The video and infrared cameras provide live feeds which are transmitted wirelessly.
+    The receiver kept near operator receives the live feeds and then they are displayed on the screen.
+    The operator can then control the robotic system to repair the broken strands and can also analyze the hotspots.
+    Loose bolts can be tightened by using the assembly mounted for tightening the bolts.
+This way the system will minimize the human work, increase efficiency and reduce dangers in
+    maintaining and repairing the transmission lines.</string></item>
+
+
+
+        <item> <string name="sun_tracker">Energy Efficiency-Microcontroller based Android App controlled Solar Tracking System
+        enables the solar panels to track the sun for maximum energy and the power generated is available to the user
+        android based application for manual modifications and control. Using Self Orienting Solar Panels lead to an
+        enhancement of up to 40% in the generated solar power. Dual axis tracking is an additional feature which makes
+        the design work for any season throughout the year thus accounting for the sun’s deviation during winters.</string></item>
+
+        <item><string name="smartgrid">Today, the technology has reached an advanced level.
+        In contrast to this, our Power Transmission and Distribution system is the same that has been
+        installed 100 years ago and which has become obsolete and needs to be developed or replanted.
+        Here comes the need for Smart Grid. It is an advanced Power Grid that uses advanced
+        communication networks to achieve following features:
+\n\n
+
+• sensing and metering technology for incoming and outgoing power,\n
+• identifies regions where there is larger need of power and implements considerable decrease in other regions,\n
+• enables consumers to become suppliers by decentralising sources of power as there are greater than 1000 Power stations for over millions of consumers,\n
+• Roof top solar energy generation, energy storage and excess energy selling with optimization of demand.\n
+• identifies peaks of consumption in a day and optimizes the use of Power,\n
+• Automated control and monitoring to detect faults through sensors so that they can be repaired quickly.\n
+• Prevents electricity thefts\n</string></item>
+
+
+        <item> <string name="exoskeleton"><b>About</b>
+The main aim of our project is to design a human exoskeleton which can be applied to various uses.
+        For people suffering from muscular motor loss in limbs to some suffering with paraplegia
+        this can be used in their quick rehabilitation. It is also aimed at creating the suit that
+        provides extra external power . It provides enhanced performance as well as assistance to
+        human actions using Functional Electrical Simulation (FES) and can be used as an affordable
+        substitute to the Physiotherapists treating stroke patients The methodlogy involves:\n\n
+<b>1.</b> Development of the tentative model on 3D modelling software.\n
+<b>2.</b> Static and dynamic analysis using Hyperworks.\n
+<b>3.</b> Development of the first prototype based on input and output systems.\n
+<b>4.</b> Integration of input and output systems.\n
+<b>5.</b> Integrating with Feedback control.</string></item>
+
+
+        <item><string name="agastuti"><b>About</b>\n\n
+<b>AGASTUTI</b> as the name suggests is an autonomous system which can replace human beings
+        from the unproductive job of transporting objects from one place to another.
+        Thus effectively saving human resources which can be used in other comparatively
+        more productive jobs. The system consists of a CPU as any customized PC.
+        The main aim is to achieve an autonomous navigation. The robot will further
+        be used in hospitals where in case of an emergency the nearest ICU for the patient
+        will be automatically be fetched from a UNIFIED database and will save the precious moments.
+        The robot will feature various robotic sciences like Image Processing,etc.
+        The interface with the robot will be via a touch screen An insight in the
+        future a multiple number of these robots will be in sync with each other to
+        make navigation very simple and efficient saving a lot of resources and man power.</string></item>
+
+        <item><string name="hand_gesture">Some special people are usually deprived of normal communication with other people in the society.
+        It has been observed that they find it really difficult at times to interact with normal people with their gestures ,
+        as only a very few of those are recognized by most people. Since people with hearing impairment cannot talk like
+        normal people so they have to depend on some sort of visual communication in most of the time. Visual-gestural
+        language is their primary means of expression which involves various hand gestures , facial expressions like
+        eyebrow movement and lip-mouth movement. What we aim to achieve ? The idea is to make computers to understand
+        human language and develop a user friendly human computer interfaces (HCI). Making a computer understand speech,
+        facial expressions and human gestures are some steps towards it thereby making a translation system that can
+        successfully convert this visual gestural language into digital English text or speech.</string></item>
+    </string-array>
+<string-array name="schedule">
+    <item>@drawable/sci</item>
+    <item>@drawable/scii</item>
+    <item>@drawable/sciii</item>
+    <item>@drawable/sciiii</item>
+    <item>@drawable/sci_</item>
+    <item>@drawable/sci__</item>
+    <item>@drawable/sci___</item>
+    <item>@drawable/scii_</item>
+
+</string-array>
+
+    <string-array name="practical_desc">
+        <item>Lets use this awesome 555 Timer IC for some synchronized LED blinking. Make the LED dance on your commands.</item>
+        <item>Using OP-AMP for the blinking of several LED\'s at a time.
+        </item>
+        <item>Make a Robot which will act according to your instructions and have a competetion with the bots of your fellow members.
+            So you will get the real feeling of robotics here at the very first time in your life..</item>
+        <item>Lets use the most used Microcontroller for the Robotics and make a Ultrasonic sensor work according to your instructions.</item>
+    </string-array>
+
+</resources>

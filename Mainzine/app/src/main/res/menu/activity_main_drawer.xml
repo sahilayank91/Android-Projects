@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Team Zine" />
+
+        <item
+            android:id="@+id/nav_project"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Projects" />
+        <item
+            android:id="@+id/nav_achievement"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Achievement" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_workshop"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Workshop" />
+
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Registration" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/common_ic_googleplayservices"
+            android:title="Map"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_query"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Query" />
+            <item
+                android:id="@+id/nav_faq"
+                android:icon="@drawable/ic_menu_send"
+                android:title="FAQs" />
+        </menu>
+    </item>
+
+</menu>

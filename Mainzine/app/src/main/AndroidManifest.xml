@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rdc.mainzine">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/unnamed"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Introduction"
+            android:label="@string/title_activity_introduction"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".zine_faq"
+            android:label="@string/title_activity_zine_faq"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Query" />
+        <activity
+            android:name=".Query_submitted"
+            android:label="@string/title_activity_query_submitted"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Registration"
+            android:label="@string/title_activity_registration" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MnitMap"
+            android:label="@string/title_activity_mnit_map" />
+        <activity
+            android:name=".ZineGallery"
+            android:label="@string/title_activity_zine_gallery"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".tabslider" />
+        <activity
+            android:name=".CardViewActivity"
+            android:label="Projects of Zine" />
+        <activity
+            android:name=".HumanComputerInterface"
+            android:label="@string/title_activity_human_computer_interface"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BrainComputingInterface"
+            android:label="@string/title_activity_brain_computing_interface"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AutonomousQuadcopter"
+            android:label="@string/title_activity_autonomous_quadcopter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GairAnalysis"
+            android:label="@string/title_activity_gair_analysis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HomeEnergy"
+            android:label="@string/title_activity_home_energy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MultiActuator"
+            android:label="@string/title_activity_multi_actuator"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VoltageInspection"
+            android:label="@string/title_activity_voltage_inspection"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SmartGrid"
+            android:label="@string/title_activity_smart_grid"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Exoskeleton"
+            android:label="@string/title_activity_exoskeleton"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Agastuti"
+            android:label="@string/title_activity_agastuti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HandGesture"
+            android:label="@string/title_activity_hand_gesture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SunTracker"
+            android:label="@string/title_activity_sun_tracker"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProstheticArm"
+            android:label="@string/title_activity_prosthetic_arm"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AutonomousWheelchair"
+            android:label="@string/title_activity_autonomous_wheelchair"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetailActivity"
+            android:label="Details"
+            android:theme="@style/ZineTeamTheme"/>
+
+
+    </application>
+
+</manifest>

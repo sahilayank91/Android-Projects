@@ -1,0 +1,167 @@
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="branch">Branch</string>
+    <string name="id">College ID</string>
+    <string name="title_activity_contact">Team Zine</string>
+    <string name="title_activity_zine_faq">FAQs</string>
+    <string name="phone">Mobile No.</string>
+    <string name="title_activity_query">Query</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_bn_label">LOGIN</string>
+    <string name="sign_up">New User? Sign up</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_con_password">Confirm Password</string>
+    <string name="reg_bn_label">Register</string>
+    <string name="title_activity_query_submitted">Query_submitted</string>
+
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_collegeid">This college id is not valid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="app_name">ZINE</string>
+    <string name="zine_team">The Zine Team</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Palais Garnier</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+    <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_registration">Registration</string>
+    <string-array name="Branch">
+        <item>Computer Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Metallurgy</item>
+        <item>Architecture</item>
+    </string-array>
+    <string name="title_activity_projects">Projects</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mnit_map">Map</string>
+    <string name="title_activity_main2">Leanback Main2Activity Title</string>
+    <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="vertical_grid_title"><![CDATA[Vertical Video Grid]]></string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="init_text">00:00</string>
+    <string name="play_pause_description">Play Pause Button</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_video_found">No video was found</string>
+    <string name="about_app">About DemoCast Player</string>
+    <string name="version">Version: %1$s</string>
+    <string name="popular_header">Popular Videos</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">startPosition</string>
+    <string name="search_results">Search Results</string>
+
+    <!-- Error messages -->
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_inaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="oops">Oops</string>
+    <string name="title_activity_achievements">Achievements</string>
+    <string name="title_activity_workshop">Workshop</string>
+
+    <string name="large_text">
+      " Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology ,"
+        Jaipur who are together to learn, improve and apply their technical skills
+
+        to help foster the growth of society and India in the field of technology by utilising
+
+        their engineering skills to work on real time problems. \n It is comprised of students from
+
+        various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering
+
+        department and various alumni working in reputed firms and doing research in Universities
+
+        in India and abroad. Zine has been the only active robotics and research group of MNIT
+
+        for the last 7 years, since its foundation. \n We have participated in various national
+
+        and international events related to a multitude of fields, have done the core research
+
+        with publishing research articles in reputed publications like IEEE journals etc and
+
+        provides services to industry like consultancy related to automation through embedded system
+
+        based solution for Micro, Small, Medium scale enterprises(MSME). \n Our specialization is in embedded
+
+        system and optimization solutions and have gained expertise in various concerned technological areas.\n\n\n
+
+    </string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_contactus">Contact Us</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_faq">FAQ</string>
+    <string name="faq">
+        <b>1. How to Register for Zine Workshop events.</b>\n
+        "To register for the workshop of Zine Workshop, go to the counter present in front of the Sport Complex. There would be the offline "
+        "registration for each student present in the zine workshop".
+        \n
+        <b>2. What are the Workshop dates?</b>\n
+        "It is scheduled to be helf from the 9th of September to 21st of September."\n
+        <b>3. Do you charge anything for participating in the Workshop?</b>\n
+        "Yes the fee for participating is Rs 900 only."\n
+        <b>4. Is there any Submission deadline?</b>\n
+        "Yes it is the last day for registration will be the 4th of September. Although it is according to the number of students applied"
+        "So we can close it early if situation occurs."\n
+        <b>5. Where would be the Workshop held?</b>\n
+        "All the notification regarding the venue of the workshop for the different batches would be updated on the website and the app."
+        "So no need to worry about where you have to go."\n
+        <b>6. Is there any examination to be a part of zine team?</b>
+        "Yes after the workshop there would be a written exam, that will select some few most desirable student for the interview session"
+        "that would be held later."\n\n\n
+
+
+    </string>
+</resources>

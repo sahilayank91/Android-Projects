@@ -1,0 +1,128 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:background="@drawable/back4"
+
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo_"
+                android:id="@+id/img"
+
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="28dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Welcome to the Elite Family of Zine"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textColor="#673ab7"
+                android:fontFamily="sans-serif"
+                android:id="@+id/one"
+                android:layout_marginTop="4dp"
+                android:layout_below="@+id/img"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/rajesh"
+                android:id="@+id/o"
+                android:layerType="software"
+
+                android:layout_below="@+id/one"
+                android:layout_centerHorizontal="true" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="RAJESH SIR"
+                android:textStyle="bold"
+                android:id="@+id/rajesh"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:fontFamily="sans-serif-smallcaps"
+                android:textAllCaps="true"
+                android:textSize="30dp"
+                android:layout_below="@id/o"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="About Rajesh Sir..Creator of ZINE"
+                android:gravity="left"
+                android:id="@+id/about"
+                android:textSize="23dp"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_below="@+id/rajesh"
+                    />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dr. Rajesh Kumar received the Bachelor of Technology in Engineering degree with honors in Electrical Engineering from the Department of Electrical Engineering, National Institute of Technology, Kurukshetra, India in 1994, Master of Engineering with honors in Power Engineering from the Department of Electrical Engineering, Malaviya National Institute of Technology, Jaipur, India in 1997 and Ph.D. degree in Intelligent Systems from the University of Rajasthan, India in 2005. He is currently Associate Professor at Department of Electrical Engineering; Adjunct Associate Professor at Centre of Energy and Environment at Malaviya national Institute of Technology, Jaipur, India.
+
+
+He has been Research Fellow (A) at the Department of Electrical and Computer Engineering at National University of Singapore from 2009-2011. He has been Reader from 2005-2009, Senior Lecturer from 2000-2005 and Lecturer from 1995-2000 at Department of Electrical Engineering, Malaviya National Institute of Technology. He is the Founder of ZINE student innovative group.His background is in the fields of Computational Intelligence, Artificial Intelligence,  power engineering, energy harvesting and management, control theory, robotics, automation, bioinformatics , smart grid, manufacturing, computer vision and signal processing.
+\n\n"
+                android:id="@+id/details"
+                android:layout_below="@+id/about"/>
+
+
+
+<!--
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/photogall"
+                            android:layout_below="@+id/about"
+                            android:id="@+id/three"
+                            android:layout_alignParentBottom="true" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/photogalll"
+                            android:layout_below="@+id/three"
+                            android:id="@+id/four"
+                            android:layout_alignParentBottom="true" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/photogallll"
+                            android:layout_below="@+id/four"
+                            android:id="@+id/five"
+                            android:layout_alignParentBottom="true" />-->
+
+        </RelativeLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>
+
+
+

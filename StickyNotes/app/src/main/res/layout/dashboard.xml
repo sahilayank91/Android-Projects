@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/header"
+        android:layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="133dp"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/create"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/create"
+                android:onClick="onButtonClicker"
+                android:layout_marginRight="@dimen/activity_vertical_margin"
+
+
+               />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/calender"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/calendar"
+                android:onClick="onButtonClicker"
+                android:layout_marginRight="@dimen/activity_vertical_margin"
+
+                android:text="heello"
+                android:layout_height="143dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="142dp"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/important"
+                style="@style/HomeButton"
+                android:layout_marginRight="@dimen/activity_vertical_margin"
+                android:drawableTop="@drawable/five"
+               />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

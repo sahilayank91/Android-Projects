@@ -1,0 +1,357 @@
+<resources>
+    <string name="app_name">Mainzine</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_introduction">Introduction</string>
+    <string name="large_text">
+      " Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology ,"
+        Jaipur who are together to learn, improve and apply their technical skills
+
+        to help foster the growth of society and India in the field of technology by utilising
+
+        their engineering skills to work on real time problems. \n It is comprised of students from
+
+        various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering
+
+        department and various alumni working in reputed firms and doing research in Universities
+
+        in India and abroad. Zine has been the only active robotics and research group of MNIT
+
+        for the last 7 years, since its foundation. \n We have participated in various national
+
+        and international events related to a multitude of fields, have done the core research
+
+        with publishing research articles in reputed publications like IEEE journals etc and
+
+        provides services to industry like consultancy related to automation through embedded system
+
+        based solution for Micro, Small, Medium scale enterprises(MSME). \n Our specialization is in embedded
+
+        system and optimization solutions and have gained expertise in various concerned technological areas.
+
+    </string>
+
+    <string name="faq">
+        <b>1. How to Register for Zine Workshop events.</b>\n
+        "To register for the workshop of Zine Workshop, go to the counter present in front of the Sport Complex. There would be the offline "
+        "registration for each student present in the zine workshop".
+        \n
+        <b>2. What are the Workshop dates?</b>\n
+        "It is scheduled to be helf from the 9th of September to 21st of September."\n
+        <b>3. Do you charge anything for participating in the Workshop?</b>\n
+        "Yes the fee for participating is Rs 900 only."\n
+        <b>4. Is there any Submission deadline?</b>\n
+        "Yes it is the last day for registration will be the 4th of September. Although it is according to the number of students applied"
+        "So we can close it early if situation occurs."\n
+        <b>5. Where would be the Workshop held?</b>\n
+        "All the notification regarding the venue of the workshop for the different batches would be updated on the website and the app."
+        "So no need to worry about where you have to go."\n
+        <b>6. Is there any examination to be a part of zine team?</b>
+        "Yes after the workshop there would be a written exam, that will select some few most desirable student for the interview session"
+        "that would be held later."
+
+
+    </string>
+    <string name="phone">Mobile No.</string>
+    <string-array name="Branch">
+        <item>Computer Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Metallurgy</item>
+        <item>Architecture</item>
+    </string-array>
+
+
+    <string name="branch">Branch</string>
+    <string name="id">College ID</string>
+    <string name="title_activity_contact">Team Zine</string>
+    <string name="title_activity_zine_faq">FAQs</string>
+
+    <string name="title_activity_query">Query</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_bn_label">LOGIN</string>
+    <string name="sign_up">New User? Sign up</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_con_password">Confirm Password</string>
+    <string name="reg_bn_label">Register</string>
+    <string name="title_activity_query_submitted">Query_submitted</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_collegeid">This college id is not valid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="_notification_title_template">: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="_notification_placeholder_text_template">You said %1$s and lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel semper
+        venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis. Pellentesque
+        vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper ornare lacus. Duis
+        ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis viverra rhoncus sit amet
+        nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+    <string name="title_activity_mnit_map">Map</string>
+    <string name="title_activity_zine_gallery">ZineGallery</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_human_computer_interface">Human\n Computer\n Interface</string>
+    <string name="human_computer_interface">These Devices can range from simple screen modules to more advanced systems like\n
+    finger and head tracking systems which can find use in a variety of fields like game development, gesture controlled \n
+    smart television,etc.Our field of research revolved around creating an interactive platform between a Human and a Computer.\n
+    Looking at the present scenario in India, we believe that cheap alternatives to the usually expensive equipment like interactive whiteboards\n
+    could come in handy to a large number of Schools and Colleges who cannot afford to invest much.
+        \n \t The scope of our project and the applications in the real world are huge.To list a few,\n
+    the following are few of the things which are aiming to achieve:
+
+    \n
+    <b>1.</b>Turning the projection of a laptop into an interactive environment, with multi touch features.
+    \n
+    <b>2.</b> Turning the LCD screen of a laptop into a touchscreen withe the help of a custom stylus,\n again supporting
+    multi touch features(up to 4 distinct points simultaneously).
+    \n
+    <b>3.</b> Finger Tracking for achieving Gesture recognition for incorporating it with carious applications.It would be a giant leap towards augmented
+    \n reality and controlling computers simply by the wave of our hands.
+    \n<b>4.</b>Head tracking which can find use in Game development or creating other Simulation Environments.
+    \n
+    \n\n
+    Finger Tracking and Gesture Recognition alone can find use in various other fields.As \m
+    far as the future scope of our projects is concerned, we would be extending our project to achieve the following:
+
+    \n\n
+    <b>1.</b>Security Systems which make use of gestures.
+    \n<b>2.</b>Controlling Robots via hand and facial gestures.\n
+    <b>3.</b>Transcribing Sign Language into Text.\n
+    <b>4.</b>Smart TVs.</string>
+    <string name="title_activity_brain_computing_interface">BrainComputingInterface</string>
+    <string name="Brain_Computing_Interface">Analyzing the signals from patients brain, mapping and using the data for effective treatment,
+        Pattern Establishment for benign and malignant neurological disease patient in different frequency ranges.
+        Research was in collaboration with State Health care Hospital (SMS), Jaipur
+    \n\n\n
+    <b>Recent Development</b>\n
+        The project has set many milestones Research grant of Rs. 75,000 for further development of this project to use brain signals
+        to control passive objects by Director Sir of College.
+        Results have been submitted in IEEE(Institute of Electrical and Electronics Engineers) Conference.</string>
+    <string name="title_activity_autonomous_quadcopter">Autonomous Quadcopter</string>
+    <string name="quadcopter">Quad copters are really interesting topic for engineering students as it can perform versatile day to day functions.
+        Also the military use of these type of unmanned aerial vehicles (UAVs) has grown because of their ability to operate in dangerous locations
+        while keeping their human operators at a safe distance. A quadcopter, also called quadrotor helicopter is multi-rotor
+        copter with four arms, each of which have a motor and a propeller at their ends. Quadcopters are similar to helicopters in some ways,
+        though their lift and thrust comes from four propellers, rather than just one.
+
+
+        \n<b>1.</b> Our idea is to design the quadcopter that when left
+        in unknown terrains can give us live video stream on our laptops and also store it according to the need.\n
+        <b>2.</b> Automate it so that it can act by judging its surroundings, perform various actions/maneuverers by determining its position and environment.\n
+        <b>3.</b> These quad copters can be sent in evacuated buildings and in bio-chemical factories to act as first respondents, and call for cajole by manoeuvring either
+        autonomously or controlling it through Brain.\n
+        <b>4.</b> It can also be used to autonomously model unknown environments using distance measuring
+        sensors and decide its path accordingly.\n</string>
+    <string name="gait">This research project aims to develop a comprehensive biomechanical integrated software tool for measurement and analysis of postural defects in walking gait.
+        It involves applying Image Processing and Machine Learning techniques. The project has been funded by DST
+        (Department of Science and Technology), which comes within Ministry of Science and Technology, India.
+
+<b>Awards and Recognition</b>
+Two papers published, one of which received Best Paper Award and Recognition.
+ </string>
+    
+    
+    <string name="home_energy">
+        
+        The system uses the concept of demand side management, 
+        variable tariff blocks and its optimization on cloud such that the power consumption bill is minimized, 
+        peak load time is clipped and the consumer satisfaction is maximized. It records and analyzes the electrical
+        parameters and provides an option for optimized scheduling for electrical appliances. The system provides 
+        real time access to the load parameters and there is a centralized data monitoring system which generates a
+        report and provides alert to the user to reduce the load consumption on exceeding the proposed usage limit 
+        as determined by the predicted load. A smart control feature is integrated which enables control of all the 
+        appliances using a handheld device.The system also logs the power consumption so that the discrepancy in billing can be cut down.
+
+<b>Progress:</b>
+The following tasks have been done and integrated:
+1) Retrieval of data from homes.\n
+2) Optimization on Cloud\n
+3) Scheduling\n
+4) Remote Access to devices at homes\n
+5) Penalty factor\n\n
+<b>Things to be done:</b>\n
+1) Integration of Game Theory</string>
+
+
+    <string name="title_activity_gair_analysis">Gait Analysis</string>
+    <string name="title_activity_home_energy">HomeEnergy</string>
+    <string name="title_activity_multi_actuator">MultiActuator</string>
+    <string name="multi_actuator">Current hydraulic systems involving multiple actuators and a single hydraulic power supply generally have poor efficiency.
+        Using throttling valves to control multiple actuators requires meeting the
+        highest pressure requirement and the total flow of all of actuators.
+        When there is a large difference in the pressure requirement of the actuators,
+        fluid throttling results in significant energy losses.
+        The purpose of this project is to implement switch-mode control in a multi-actuator
+        circuit and demonstrate the improvement in efficiency over a traditional hydraulic
+        with throttling valve control. This will reduce energy losses and result in improved
+        efficiency for usage of multiple actuators with a single hydraulic power source.
+        This idea utilises the input from both the tank and the pump. Using varying amounts of
+        fluid coming from both sources, we can create various pressure and flow values for different
+        actuators and in the process increase the efficiency of the system by operating the actuators
+        at their rated pressures and flows. The usages of this project vary from heavy duty hydraulic
+        to hydraulic lifts. This new technology, once implemented on a larger scale in realistic applications,
+        will reduce losses in hydraulic systems that depend on multiple actuators to function.</string>
+    
+    
+    
+    
+<string name="voltage_inspection">The project is aimed at developing a robotic technology for carrying out the 
+    inspection and repair work of any faults that may occur in the 
+    transmission/distribution lines. The robot will achieve this task whilst the line being under
+    live condition. Present methods of inspection include Helicopter surveillance and Human inspection. 
+    Helicopter surveillance is done by a lineman using helicopter and it is highly risky. 
+    The second method includes human inspection. In this lineman climbs on the transmission
+    line and checks out all the faults and repairs them and this method is also highly risky and time consuming.
+\n\n
+    <b>The robotic system consists of a robot equipped with:</b>
+<b>1.</b> A high definition video camera providing live feeds of transmission line\n
+    <b>2. </b>Infrared (Thermal) camera providing the locations of hotspots.\n
+<b>3.</b> Wire clamper and bolt lightener.\n
+<b>4.</b> Wireless assembly providing control upto 2km.\n
+The robotic system is manually controlled through a wireless remote. 
+    The video and infrared cameras provide live feeds which are transmitted wirelessly. 
+    The receiver kept near operator receives the live feeds and then they are displayed on the screen. 
+    The operator can then control the robotic system to repair the broken strands and can also analyze the hotspots. 
+    Loose bolts can be tightened by using the assembly mounted for tightening the bolts.
+This way the system will minimize the human work, increase efficiency and reduce dangers in 
+    maintaining and repairing the transmission lines.</string>
+    <string name="title_activity_voltage_inspection">VoltageInspection</string>
+    <string name="title_activity_smart_grid">SmartGrid</string>
+
+
+    <string name="smartgrid">Today, the technology has reached an advanced level.
+        In contrast to this, our Power Transmission and Distribution system is the same that has been
+        installed 100 years ago and which has become obsolete and needs to be developed or replanted.
+        Here comes the need for Smart Grid. It is an advanced Power Grid that uses advanced
+        communication networks to achieve following features:
+\n\n
+
+• sensing and metering technology for incoming and outgoing power,\n
+• identifies regions where there is larger need of power and implements considerable decrease in other regions,\n
+• enables consumers to become suppliers by decentralising sources of power as there are greater than 1000 Power stations for over millions of consumers,\n
+• Roof top solar energy generation, energy storage and excess energy selling with optimization of demand.\n
+• identifies peaks of consumption in a day and optimizes the use of Power,\n
+• Automated control and monitoring to detect faults through sensors so that they can be repaired quickly.\n
+• Prevents electricity thefts\n</string>
+    <string name="title_activity_exoskeleton">Exoskeleton</string>
+
+    <string name="exoskeleton"><b>About</b>
+The main aim of our project is to design a human exoskeleton which can be applied to various uses.
+        For people suffering from muscular motor loss in limbs to some suffering with paraplegia
+        this can be used in their quick rehabilitation. It is also aimed at creating the suit that
+        provides extra external power . It provides enhanced performance as well as assistance to
+        human actions using Functional Electrical Simulation (FES) and can be used as an affordable
+        substitute to the Physiotherapists treating stroke patients The methodlogy involves:\n\n
+<b>1.</b> Development of the tentative model on 3D modelling software.\n
+<b>2.</b> Static and dynamic analysis using Hyperworks.\n
+<b>3.</b> Development of the first prototype based on input and output systems.\n
+<b>4.</b> Integration of input and output systems.\n
+<b>5.</b> Integrating with Feedback control.</string>
+    <string name="title_activity_agastuti">Agastuti</string>
+    <string name="agastuti"><b>About</b>\n\n
+<b>AGASTUTI</b> as the name suggests is an autonomous system which can replace human beings
+        from the unproductive job of transporting objects from one place to another.
+        Thus effectively saving human resources which can be used in other comparatively
+        more productive jobs. The system consists of a CPU as any customized PC.
+        The main aim is to achieve an autonomous navigation. The robot will further
+        be used in hospitals where in case of an emergency the nearest ICU for the patient
+        will be automatically be fetched from a UNIFIED database and will save the precious moments.
+        The robot will feature various robotic sciences like Image Processing,etc.
+        The interface with the robot will be via a touch screen An insight in the
+        future a multiple number of these robots will be in sync with each other to
+        make navigation very simple and efficient saving a lot of resources and man power.</string>
+    <string name="title_activity_hand_gesture">HandGesture</string>
+    <string name="hand_gesture">Some special people are usually deprived of normal communication with other people in the society.
+        It has been observed that they find it really difficult at times to interact with normal people with their gestures ,
+        as only a very few of those are recognized by most people. Since people with hearing impairment cannot talk like
+        normal people so they have to depend on some sort of visual communication in most of the time. Visual-gestural
+        language is their primary means of expression which involves various hand gestures , facial expressions like
+        eyebrow movement and lip-mouth movement. What we aim to achieve ? The idea is to make computers to understand
+        human language and develop a user friendly human computer interfaces (HCI). Making a computer understand speech,
+        facial expressions and human gestures are some steps towards it thereby making a translation system that can
+        successfully convert this visual gestural language into digital English text or speech.</string>
+    <string name="title_activity_sun_tracker">SunTracker</string>
+    <string name="sun_tracker">Energy Efficiency-Microcontroller based Android App controlled Solar Tracking System
+        enables the solar panels to track the sun for maximum energy and the power generated is available to the user
+        android based application for manual modifications and control. Using Self Orienting Solar Panels lead to an
+        enhancement of up to 40% in the generated solar power. Dual axis tracking is an additional feature which makes
+        the design work for any season throughout the year thus accounting for the sun’s deviation during winters.</string>
+    <string name="title_activity_prosthetic_arm">ProstheticArm</string>
+    <string name="prosthetic_arm">
+        Making an artificial arm for the amputed and maimed persons controlled by muscle signals to grab and lift objects.\n
+
+<b>Recent Development:</b>\n
+Extremely useful project for physically disabled.....\n
+
+<b>1.</b>Developed a working model successfully.\n
+<b>2.</b>Currently working on the signal extraction from muscles\n</string>
+    <string name="title_activity_autonomous_wheelchair">AutonomousWheelchair</string>
+    <string name="wheelchair">It is an emerging field in Engineering due to the depth of its untapped potential.
+        Brain Signals are detected by sensitive electrodes and filtered to obtain useful information.
+        BCI is used for prognosis of terminal diseases, an aid for people who have been disabled and
+        can be used as an ancillary part for paralyzed people. We have achieved the objective of categorizing patients
+        (neurologic disease) using brain signals with a medical team at SMS Hospital, Jaipur. Results have been
+        submitted in IEEE xplore. We have also developed an algorithm for ANN to get enhanced classification of
+        terminal medical disease. Results have been submitted in Springer Journal. Most of software part has
+        been simulated by us. Now to extend our project towards hardware we are going to construct a fully
+        autonomous wheel chair for completely paralyzed people using BCI with the following features:-\n
+        \n
+<b>1.</b> User controlled movement of wheelchair using brain signals.\n
+        <b>2.</b> Detection and classification of following general and medical phenomena on the basis of Brain Signals predominantly:-\n
+<b>a.General Phenomena.</b>\n
+<i>i. Sleep patterns\n
+ii. Stress\n
+iii. Emotion Classification\n</i>
+<b>b. Medical Phenomena</b>
+<i>i. Detecting simple illness (such as cough/cold)\n
+ii. Detecting onset of health complications(such as seizures)\n
+iii. Blood Pressure(using ECG)</i>\n
+<b>3.</b> A complete health report based on the above (and more) factors will be added to a central server at frequent time intervals.\n
+<b>4.</b> Controlling home appliances such as television, lights and doors with BCI.n\n
+<b>5.</b> Prompts for activities such as sleep, TV show, medicine dosage, etc according to time and user requirements.\n
+<b>6.</b> Inclusion of a warning mechanism in case of emergency situations.\n
+<b>7.</b> Customized wheelchair to enhance movement and user comfort.\n</string>
+    <string name="title_activity_team_zine">TeamZine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="detail_desc">Sahil ayank is a student of Computer Science in IIIT KOTA. He is an enthusiast coder.</string>
+    <string name="detail_interest">He is interested in Coding</string>
+
+</resources>

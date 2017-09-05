@@ -1,0 +1,32 @@
+REST
+
+endpoint - http://stickyapi.alanedwardes.com/1.0 // API version
+
+POST /user/authenticate
+username=user&password=pass
+
+Sucessful response:
+{
+	token: 'authentication token'
+}
+
+Error codes: 403
+
+----------------------------------------------------
+
+All other API methods require a token to be POSTed
+
+POST /notes/list
+token=token
+
+Token identifies current user in this case.
+
+Sucessful response:
+{
+	notes: [{
+		// Note 1
+	},
+	{
+		// Note 2, etc...
+	}]
+}
